@@ -1,0 +1,4 @@
+django
+ipdb
+ipython
+requests
